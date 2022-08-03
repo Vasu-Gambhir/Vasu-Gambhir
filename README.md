@@ -31,7 +31,7 @@
 <a href="https://codepen.io/vasu-gambhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vasu-gambhir" height="40" width="50" /></a>
 </p>
 
-<h3 align="left">Languages/Tools/Frameworks:</h3>
+<h3 align="left">Languages/Tools/Frameworks/Databases:</h3>
 <hr>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
