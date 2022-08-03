@@ -1,8 +1,11 @@
 <h1 align="center">Hey there, I'm Vasu Gambhir👋</h1>
 <h3 align="center">A Full Stack Web developer💻</h3>
 
+
 <h3>About Me!</h3>
 <hr>
+<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 -  👨🏽‍💻 Currently Pursuing B.tech in ECE branch at MAIT,GSSIPU.
 -  🌱 I'm currently exploring Web Development and C++.
