@@ -11,12 +11,14 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
-- 👨🏽‍💻 Currently Pursuing B.tech in ECE branch at MAIT,GSSIPU.
-- 🌱 I'm currently exploring Web Development and C++.
-- 🤔 I find Back End Development pretty interesting.
+- 👨🏽‍💻 Working as a Software Developer at Accenture.
+- 🌱 Currently exploring Dev Ops and new frameworks.
+- 🤔 While I find back-end development quite interesting, I also enjoy creating interactive UIs. 
+- 🔭 All of my projects are available at [https://vasu-gambhir.vercel.app/](https://vasu-gambhir.vercel.app/)
 - 💬 Ask me about Web Dev, C++, Happy to help! :p.
 - 📫 Email me at: **vasugambhir15@gmail.com**
-- ⚡ Fun fact: I love cooking!
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I1Xry8ZMPL1kOLj4yhMf585t3PfG3zmz/view](https://drive.google.com/file/d/1I1Xry8ZMPL1kOLj4yhMf585t3PfG3zmz/view)
+- ⚡ Fun fact: I love playing circket and hitting the gym!
 
 <h3 align="left">Connect with me:</h3>
 <hr />
