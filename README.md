@@ -13,8 +13,8 @@
 
 - 👨🏽‍💻 Working as a Software Developer at Accenture.
 - 🌱 Currently exploring Dev Ops and new frameworks.
-- 🤔 While I find back-end development quite interesting,
-I also enjoy creating interactive UIs. 
+- 🤔 I find back-end development quite interesting.
+- 🤔 I also like to create Interactive UIs.
 - 🔭 All of my projects are available at [vasu-gambhir-portfolio](https://vasu-gambhir.vercel.app/)
 - 💬 Ask me about Web Dev, C++, Happy to help! :p.
 - 📫 Email me at: **vasugambhir15@gmail.com**
