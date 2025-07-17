@@ -11,10 +11,12 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
-- 👨🏽‍💻 Currently Pursuing B.tech in ECE branch at MAIT,GSSIPU. - 🌱 I'm currently
-exploring Web Development and C++. - 🤔 I find Back End Development pretty
-interesting. - 💬 Ask me about Web Dev, C++, Happy to help! :p. - 📫 Email me
-at: **vasugambhir15@gmail.com** - ⚡ Fun fact: I love cooking!
+- 👨🏽‍💻 Currently Pursuing B.tech in ECE branch at MAIT,GSSIPU.
+- 🌱 I'm currently exploring Web Development and C++.
+- 🤔 I find Back End Development pretty interesting.
+- 💬 Ask me about Web Dev, C++, Happy to help! :p.
+- 📫 Email me at: **vasugambhir15@gmail.com**
+- ⚡ Fun fact: I love cooking!
 
 <h3 align="left">Connect with me:</h3>
 <hr />
