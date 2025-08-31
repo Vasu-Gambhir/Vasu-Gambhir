@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Vasu Gambhir👋</h1>
-<h3 align="center">A Full Stack Web developer💻</h3>
+<h3 align="center">A Software developer💻</h3>
 
 <h3>About Me!</h3>
 <hr />
